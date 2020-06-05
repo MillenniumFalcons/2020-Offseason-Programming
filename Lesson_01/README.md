@@ -16,9 +16,9 @@ For this lesson, we will not be doing any programming. We will just be solving s
 [Solution](https://imgur.com/a9y0l2k)
 
 
-[](https://imgur.com/s3I1MYC)
+![](https://imgur.com/s3I1MYC.png)
 [Solution](https://imgur.com/KX1mpdt)
 
 
-![](https://imgur.com/B4DD2G6)
+![](https://imgur.com/B4DD2G6.png)
 [Solution](https://imgur.com/nE1KKos)
