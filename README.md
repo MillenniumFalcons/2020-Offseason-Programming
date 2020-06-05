@@ -1,5 +1,4 @@
 # 2020-Offseason-Programming 
-Offseason Programming Training 
  
 ## Setting up a programming environment
 For the first few lessons where we will be learning some basic concepts of java, we will be programming on [repl.it](https://repl.it/). For later lessons where we will be learning how to program the robot, we will be using Visual Studio Code. 
