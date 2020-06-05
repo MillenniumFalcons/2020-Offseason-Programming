@@ -22,3 +22,5 @@ For this lesson, we will not be doing any programming. We will just be solving s
 
 ![](https://imgur.com/B4DD2G6.png)
 [Solution](https://imgur.com/nE1KKos)
+
+* Note: Before Lesson_02, please make sure you have VSCode downloaded on your computer. More instructions can be found [here](https://github.com/MillenniumFalcons/2020-Offseason-Programming#how-to-setup-vscode).
