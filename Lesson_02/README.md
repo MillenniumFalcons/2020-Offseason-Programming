@@ -46,6 +46,8 @@ double leftJoyStickx;
 
 If you would like to learn about variables from a video, please click [here](https://youtu.be/XX77ZI9E0IE).
 
+* [Exercise 1](https://github.com/MillenniumFalcons/2020-Offseason-Programming/blob/master/Lesson_02/ExerciseOne.java)
+
 ## Arithmetic Operations ##
 In programming, Arithmetic Operators can be used to perform calculations in a program. Some examples are:
 * ```+```: The addition operator is used to add numbers.
@@ -65,6 +67,9 @@ turn = .5*(rightValue);
 ```
 
 If you would like to learn about arithmetic operators from a video, please click [here](https://youtu.be/RmFbY14OvdA).
+
+* [Exercise 2](https://github.com/MillenniumFalcons/2020-Offseason-Programming/blob/master/Lesson_02/ExerciseTwo.java)
+
 
 ## Conditional Statements ##
 ### If and Else statements ###
@@ -114,6 +119,9 @@ else
 
 If you would like to learn about else if statements from a video, please click [here](https://youtu.be/C0YRYVn_BeI).
 
+* [Exercise 3](https://github.com/MillenniumFalcons/2020-Offseason-Programming/blob/master/Lesson_02/ExerciseThree.java)
+
+
 ## Relational and Logical Operators ##
 Relational and Logical Operators are operators used to manipulate and compare variables. Here are some examples: 
 * ```==``` The equals to operator is to check if the value of 2 variables are equal or not, if yes then the condition becomes true
@@ -127,3 +135,6 @@ Relational and Logical Operators are operators used to manipulate and compare va
 * ```!``` The logical NOT  operator is used to reverse a logical state of a condition.
 
 If you would like to learn about relational and logical operators from a video, please click [here](https://youtu.be/W-JvzG_prfg).
+
+* [Exercise 4](https://github.com/MillenniumFalcons/2020-Offseason-Programming/blob/master/Lesson_02/ExerciseFour.java)
+
