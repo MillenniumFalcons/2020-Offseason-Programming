@@ -9,7 +9,7 @@ if(rightMotorMovingForward && leftMotorMovingForward)
 }
 if(rightMotorMovingForward && leftMotorMovingBackward)
 {
-    movingStatus = "Robot is spinning towards the right";
+    movingStatus = "Robot is spinning counterclockwise";
 }
 Good Luck Completing the exercise!
 Clue:
