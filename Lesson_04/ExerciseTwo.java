@@ -17,7 +17,7 @@ public class Main
         
     }
     
-    public static void calcTheta() //use this function to calculate the direction of the vector
+    public static void calcAngle() //use this function to calculate the direction of the vector
     {
         
     }
