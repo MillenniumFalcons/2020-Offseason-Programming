@@ -13,8 +13,7 @@ public class Main
     public static void main(String[]args)
     {
         xComponent = 6;
-        yComponent = 8;
-        
+        yComponent = 8; 
     }
     
     public static void calcAngle() //use this function to calculate the direction of the vector
