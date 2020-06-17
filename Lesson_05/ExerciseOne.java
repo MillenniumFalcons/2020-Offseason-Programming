@@ -18,7 +18,7 @@ Here are 5 odd numbers:
 Good Luck Completing the exercise!
 */
 
-public class ExerciseOne
+public class Main
 {
     public static void main(String[]args)
     {
