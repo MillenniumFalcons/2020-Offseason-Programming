@@ -8,7 +8,7 @@ So for example if you execute the following piece of code:
 ```
 for(int i=1; i<=3; i++)
 {
-	  System.out.println("Hello World");
+    System.out.println("Hello World");
 }
 ```
 The result will be:
