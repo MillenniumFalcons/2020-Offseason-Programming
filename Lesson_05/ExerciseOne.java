@@ -1,5 +1,5 @@
 /*
-Lesson _03
+Lesson _05
 In this exercise, you will use for loops in order to print both even and odd numbers
 The number of odd/even numbers will depend on the variable count.
 If the value for count is 5, your exercise Result should look like the following:
