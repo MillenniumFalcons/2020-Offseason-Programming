@@ -1,5 +1,5 @@
 public class Main {
-    Drivetrain dt;
+    static Drivetrain dt;
     public static void main(String[] args) {
         runOnce();
         while (true) {
