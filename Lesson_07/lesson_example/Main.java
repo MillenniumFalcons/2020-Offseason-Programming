@@ -4,6 +4,11 @@ public class Main {
         runOnce();
         while (true) {
             runPeriodic();
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
     }
 
@@ -12,7 +17,10 @@ public class Main {
     }
 
     static void runPeriodic() {
-        dt.setMotors(Math.random() * 2 - 1, Math.random() * 2 - 1);
         dt.printStatus();
+        double leftPower = Math.random() * 2 - 1;
+        double rightPower = Math.random() * 2 - 1;
+        dt.setMotors(leftPower, rightPower);
+        
     }
 }
