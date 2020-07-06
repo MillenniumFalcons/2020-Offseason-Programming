@@ -18,7 +18,7 @@ public class Main
         
         //make objects
         
-        //run conditional statements using the run variable
+        //run switch statements using the run variable
     }
 
 }
