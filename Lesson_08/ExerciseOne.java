@@ -10,7 +10,7 @@ public class Main
 {
     public static void main(String[]args)
     {
-        //make num object
+        //make operations enum
         
         //variables used for calculations
         double numOne = 34;
